@@ -9,4 +9,8 @@ int main()
     //langkah 2
     cout << "masukkan panjang :";
     cin >> panjang; 
+
+    //langkah 3
+    cout << "masukkan lebar :";
+    cin >> lebar;
 }
