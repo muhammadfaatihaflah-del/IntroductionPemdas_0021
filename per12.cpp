@@ -14,6 +14,9 @@ int main()
     cout << "masukkan lebar :";
     cin >> lebar;
 
-    //langkag 4
+    //langkah 4
     luas = panjang * lebar
+
+    //langkah 5
+    cout << "hasilnya : " << luas;
 }
