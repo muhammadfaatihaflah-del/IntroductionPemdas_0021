@@ -13,4 +13,7 @@ int main()
     //langkah 3
     cout << "masukkan lebar :";
     cin >> lebar;
+
+    //langkag 4
+    luas = panjang * lebar
 }
